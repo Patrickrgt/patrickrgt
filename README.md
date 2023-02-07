@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/patrickrgt/patrickrgt/blob/main/images/stat.svg"
+  alt="Patrick WakaTime Activity"
+/>
