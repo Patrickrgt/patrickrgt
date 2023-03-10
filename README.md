@@ -1,7 +1,7 @@
 
 
 <img
-  src="https://github.com/patrickrgt/patrickrgt/blob/main/images/stat.svg"
+  src="https://github.com/patrickrgt/patrickrgt/blob/main/images/stat.svg](https://wakatime.com/share/@patrickrgt/3ce5fed9-0d5d-495a-acde-011792d397da.svg"
   alt="Patrick's WakaTime Activity"
 />
 <br>
