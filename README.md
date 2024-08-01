@@ -4,6 +4,8 @@
 
 <table>
   <tr>
+     <td><a href="https://www.madoll.art/">MAdoll</a></td>
+    <td><a href="https://www.nispelstudio.com/">Nispel Studio (Mobile Only WIP)</a></td>
     <td><a href="https://hextermina.com/">Hex Termina</a></td>
     <td><a href="https://aikovirtualnfts.com/userpanel">Aiko Virtual User Panel</a></td>
     <td><a href="https://gc.lol/">GC Investments</a></td>
