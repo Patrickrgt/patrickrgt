@@ -3,6 +3,10 @@
 <h2>Websites I created for Clients</h2>
 
 <table>
+    <tr>
+    <td><a href="https://www.montreality.shop/">Montreality Store</a></td>
+    <td><a href="https://dangycam.com/">Dangycam</a></td>
+  </tr>
   <tr>
     <td><a href="https://hextermina.com/">Hex Termina</a></td>
     <td><a href="https://starodysseystore.com/">Star Odyssey</a></td>
