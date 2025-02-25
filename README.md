@@ -4,6 +4,7 @@
 
 <table>
     <tr>
+    <td><a href="https://www.hkyjersey.ca/">HKY JERSEY</a></td>
     <td><a href="https://www.montreality.shop/">Montreality Store</a></td>
     <td><a href="https://dangycam.com/">Dangycam</a></td>
   </tr>
@@ -11,7 +12,7 @@
     <td><a href="https://hextermina.com/">Hex Termina</a></td>
     <td><a href="https://starodysseystore.com/">Star Odyssey</a></td>
     <td><a href="https://downloads.supply/">Downloads</a></td>
-    <td><a href="https://www.nispelstudio.com/">Nispel Studio (Mobile Only WIP)</a></td>
+    <td><a href="https://www.nispelstudio.com/">Nispel Studio</a></td>
   </tr>
   <tr>
     <td><a href="https://aikovirtualnfts.com/userpanel">Aiko Virtual User Panel</a></td>
