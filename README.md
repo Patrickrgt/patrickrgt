@@ -3,7 +3,7 @@
 <h2>Websites I created for Clients</h2>
 
 <table>
-    <tr>
+  <tr>
     <td><a href="https://www.hkyjersey.ca/">HKY JERSEY</a></td>
     <td><a href="https://www.montreality.shop/">Montreality Store</a></td>
     <td><a href="https://dangycam.com/">Dangycam</a></td>
@@ -19,6 +19,16 @@
     <td><a href="https://www.lunarcapital.xyz/">Lunar Capital</a></td>
     <td><a href="https://gc.lol/">GC Investments</a></td>
     <td><a href="https://www.madoll.art/">MAdoll</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://untiljapan.xyz/">Until Japan</a></td>
+    <td><a href="https://nettspend.io/">Nettspend</a></td>
+    <td><a href="https://earlylifecrisis.com/">Early Life Crisis</a></td>
+    <td><a href="https://opmbabi.com/">Opm Babi</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://seventhstarskate.com/">Seventh Star Skate</a></td>
+    <td><a href="https://wibe.life/">Wibe</a></td>
   </tr>
 </table>
 
