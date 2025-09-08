@@ -1,5 +1,6 @@
 <img src="https://wakatime.com/share/@patrickrgt/b3e34f50-ae97-4cf6-920f-c87f1f03e3d6.svg">
 
+<h4>Currently Freelancing<h4>
 <h2>Websites I created for Clients</h2>
 
 <table>
