@@ -33,7 +33,16 @@
     <td><a href="https://seventhstarskate.com/">Seventh Star Skate</a></td>
     <td><a href="https://nettspend.io/">Nettspend</a></td>
     <td><a href="networkangels.online/">Network Angels</a></td>
-    
+    <td><a href="https://tapcaps.com/">Tapcaps</a></td>
+  </tr>
+    <tr>
+    <td><a href="https://seventhstarskate.com/">Seventh Star Skate</a></td>
+    <td><a href="https://nettspend.io/">Nettspend</a></td>
+    <td><a href="networkangels.online/">Network Angels</a></td>
+    <td><a href="https://tapcaps.com/">Tapcaps</a></td>
+  </tr>
+   <tr>
+    <td><a href="https://www.creoquedivino.com/">Creo Que Divino</a></td>
   </tr>
 </table>
 
